@@ -25,7 +25,7 @@ public class BasePageObjects {
 	}
 
 	public String ALPHABETS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-	public String NUMBERS = "0123456789";
+	public String NUMBERS = "123456789";
 	public String ALPHANUMERIC = ALPHABETS + NUMBERS;
 	public SecureRandom RANDOM = new SecureRandom();
 
