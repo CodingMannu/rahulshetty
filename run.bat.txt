@@ -1,0 +1,2 @@
+cd C:\Users\MANOJ KUMAR\eclipse-workspace\rahulshetty
+mvn test
